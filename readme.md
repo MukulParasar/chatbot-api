@@ -50,13 +50,13 @@ This project is a simple backend simulation of a WhatsApp chatbot built using **
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/chatbot-project.git
+git clone https://github.com/your-username/chatbot-api.git
 ```
 
 2. Navigate to the project:
 
 ```bash
-cd chatbot-project
+cd chatbot-api
 ```
 
 3. Run the application:
@@ -83,12 +83,6 @@ http://localhost:8080/webhook
 
 ---
 
-## 🎥 Demo
-
-(Attach your demo video link here)
-
----
-
 ## 📌 Author
 
-Mukul Sharma
+Mukul
