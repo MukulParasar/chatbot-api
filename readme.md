@@ -2,6 +2,12 @@
 
 This project is a simple backend simulation of a WhatsApp chatbot built using **Java Spring Boot**.
 
+## 🌐 Live Demo
+
+https://chatbot-api-production-89cd.up.railway.app/
+
+---
+
 ## 🚀 Features
 
 * REST API endpoint `/webhook` to receive messages
