@@ -4,7 +4,7 @@ This project is a simple backend simulation of a WhatsApp chatbot built using **
 
 ## 🌐 Live Demo
 
-https://chatbot-api-production-89cd.up.railway.app/
+https://chatbot-api-production-89cd.up.railway.app/webhook
 
 ---
 
